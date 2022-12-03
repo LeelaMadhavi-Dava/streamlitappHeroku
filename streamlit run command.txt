@@ -1,0 +1,1 @@
+streamlit run "C:\Users\RGUKT System 2\Desktop\multiple disease prediction system\"C:\Users\RGUKT System 2\Desktop\multiple disease prediction system\multiple.py"
